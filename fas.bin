@@ -620,7 +620,7 @@ echo
 read -p "请输入: " k
 echo
 if [[ $k == 1 ]];then
-Download_host='https://raw.githubusercontent.com/lzwshi/fas/master/';
+Download_host='https://raw.githubusercontent.com/svnc/fas/master/';
 YUM_Choice='官方云';
 fi
 if [[ $k == 2 ]];then
